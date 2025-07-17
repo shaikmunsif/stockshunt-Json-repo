@@ -1,0 +1,818 @@
+[
+  {
+    "company": "DECCANCE Deccan Cements Limited",
+    "changePercent": "20% change",
+    "currentPrice": "1075.00",
+    "last1DaysPrice": "895.85",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "MCLOUD Magellanic Cloud Limited",
+    "changePercent": "19.43% change",
+    "currentPrice": "97.32",
+    "last1DaysPrice": "81.49",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "FISCHER Fischer Medical Venture L",
+    "changePercent": "17.66% change",
+    "currentPrice": "933.65",
+    "last1DaysPrice": "793.50",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "BLUSPRING Bluspring Enterprises Ltd",
+    "changePercent": "17.12% change",
+    "currentPrice": "94.95",
+    "last1DaysPrice": "81.07",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "20MICRONS 20 Microns Limited",
+    "changePercent": "15.48% change",
+    "currentPrice": "259.75",
+    "last1DaysPrice": "224.93",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "NETWORK18 Network18 Media & Investments Limited",
+    "changePercent": "13.34% change",
+    "currentPrice": "63.14",
+    "last1DaysPrice": "55.71",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "SMSLIFE Sms Lifesciences (i) Ltd",
+    "changePercent": "13.3% change",
+    "currentPrice": "1299.80",
+    "last1DaysPrice": "1147.20",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "GSLSU Global Surfaces Limited",
+    "changePercent": "12.46% change",
+    "currentPrice": "125.19",
+    "last1DaysPrice": "111.32",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "BVCL Barak Valley Cements Limited",
+    "changePercent": "11.61% change",
+    "currentPrice": "41.82",
+    "last1DaysPrice": "37.47",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "TI Tilaknagar Industries Limited",
+    "changePercent": "11.61% change",
+    "currentPrice": "393.55",
+    "last1DaysPrice": "352.60",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "SHREDIGCEM Sh. Digvijay Cem",
+    "changePercent": "10.63% change",
+    "currentPrice": "83.55",
+    "last1DaysPrice": "75.52",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "COFFEEDAY COFFEE DAY ENTERPR INR10",
+    "changePercent": "9.99% change",
+    "currentPrice": "39.96",
+    "last1DaysPrice": "36.33",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "SAMPANN Sampann Utpadan India Ltd",
+    "changePercent": "9.99% change",
+    "currentPrice": "33.91",
+    "last1DaysPrice": "30.83",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "VERTOZ Vertoz Advertising Ltd",
+    "changePercent": "9.98% change",
+    "currentPrice": "85.93",
+    "last1DaysPrice": "78.13",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "MANAKCOAT Manaksia Coated Metals & Industries Limited",
+    "changePercent": "9.88% change",
+    "currentPrice": "145.02",
+    "last1DaysPrice": "131.98",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "MASFIN Mas Financial Serv Ltd",
+    "changePercent": "9.71% change",
+    "currentPrice": "346.20",
+    "last1DaysPrice": "315.55",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "SAURASHCEM Saurashtra Cem.",
+    "changePercent": "8.91% change",
+    "currentPrice": "96.15",
+    "last1DaysPrice": "88.28",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "LOKESHMACH Lokesh Machines Limited",
+    "changePercent": "8.88% change",
+    "currentPrice": "221.84",
+    "last1DaysPrice": "203.74",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "SHIVALIK Shivalik Rasayan Limited",
+    "changePercent": "8.88% change",
+    "currentPrice": "581.85",
+    "last1DaysPrice": "534.40",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "AARON Aaron Industries Limited",
+    "changePercent": "8.64% change",
+    "currentPrice": "379.60",
+    "last1DaysPrice": "349.40",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "BAIDFIN Baid Finserv Limited",
+    "changePercent": "8.47% change",
+    "currentPrice": "13.32",
+    "last1DaysPrice": "12.28",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "UNICHEMLAB Unichem Laboratories Limited",
+    "changePercent": "7.94% change",
+    "currentPrice": "645.50",
+    "last1DaysPrice": "598.00",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "GREENLAM Greenlam Industries Limited",
+    "changePercent": "7.8% change",
+    "currentPrice": "263.69",
+    "last1DaysPrice": "244.62",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "3IINFOLTD 3i Infotech Limited",
+    "changePercent": "7.77% change",
+    "currentPrice": "25.67",
+    "last1DaysPrice": "23.82",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "KIRLPNU Kirloskar Pneumatic Com L",
+    "changePercent": "7.7% change",
+    "currentPrice": "1511.20",
+    "last1DaysPrice": "1403.10",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "KELLTONTEC Kellton Tech Sol Ltd",
+    "changePercent": "7.67% change",
+    "currentPrice": "141.84",
+    "last1DaysPrice": "131.73",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "RUBFILA Rubfila International Ltd",
+    "changePercent": "7.4% change",
+    "currentPrice": "90.68",
+    "last1DaysPrice": "84.43",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "HARIOMPIPE Hariom Pipe Industries L",
+    "changePercent": "7.39% change",
+    "currentPrice": "480.55",
+    "last1DaysPrice": "447.50",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "MAHEPC Mahindra Epc Irrig Ltd",
+    "changePercent": "7.22% change",
+    "currentPrice": "153.34",
+    "last1DaysPrice": "143.02",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "CHEMCON Chemcon Special Chem Ltd",
+    "changePercent": "7.12% change",
+    "currentPrice": "207.69",
+    "last1DaysPrice": "193.88",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "PENINLAND Peninsula Land Limited",
+    "changePercent": "6.95% change",
+    "currentPrice": "44.02",
+    "last1DaysPrice": "41.16",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "ALLCARGO Allcargo Logistics Limited",
+    "changePercent": "6.95% change",
+    "currentPrice": "38.03",
+    "last1DaysPrice": "35.56",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "DIGITIDE Digitide Solutions Ltd",
+    "changePercent": "6.92% change",
+    "currentPrice": "249.44",
+    "last1DaysPrice": "233.30",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "DMCC Dmcc Speciality Chemicals",
+    "changePercent": "6.79% change",
+    "currentPrice": "317.90",
+    "last1DaysPrice": "297.70",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "PLATIND Platinum Industries Ltd",
+    "changePercent": "6.62% change",
+    "currentPrice": "290.75",
+    "last1DaysPrice": "272.70",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "PATANJALI Patanjali Foods Limited",
+    "changePercent": "6.6% change",
+    "currentPrice": "1859.60",
+    "last1DaysPrice": "1744.50",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "MAXIND Max India Limited",
+    "changePercent": "6.55% change",
+    "currentPrice": "196.44",
+    "last1DaysPrice": "184.36",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "CERA Cera Sanitaryware Limited",
+    "changePercent": "6.43% change",
+    "currentPrice": "6925.50",
+    "last1DaysPrice": "6507.00",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "HATHWAY Hathway Cable & Datacom Limited",
+    "changePercent": "6.35% change",
+    "currentPrice": "16.74",
+    "last1DaysPrice": "15.74",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "ICIL Indo Count Industries Limited",
+    "changePercent": "6.28% change",
+    "currentPrice": "310.60",
+    "last1DaysPrice": "292.25",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "EDELWEISS Edelweiss Financial Services Limited",
+    "changePercent": "6.2% change",
+    "currentPrice": "120.80",
+    "last1DaysPrice": "113.75",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "VASCONEQ Vascon Engineers Limited",
+    "changePercent": "6.2% change",
+    "currentPrice": "59.10",
+    "last1DaysPrice": "55.65",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "AGI Agi Greenpac Limited",
+    "changePercent": "6.13% change",
+    "currentPrice": "861.70",
+    "last1DaysPrice": "811.95",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "CHOICEIN Choice International Ltd",
+    "changePercent": "5.94% change",
+    "currentPrice": "747.10",
+    "last1DaysPrice": "705.20",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "NOVAAGRI Nova Agritech Limited",
+    "changePercent": "5.91% change",
+    "currentPrice": "58.58",
+    "last1DaysPrice": "55.31",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "LUMAXIND Lumax Industries Limited",
+    "changePercent": "5.87% change",
+    "currentPrice": "3786.40",
+    "last1DaysPrice": "3576.50",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "ONMOBILE OnMobile Global Limited",
+    "changePercent": "5.82% change",
+    "currentPrice": "55.10",
+    "last1DaysPrice": "52.07",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "MODISONLTD Modison Limited",
+    "changePercent": "5.79% change",
+    "currentPrice": "181.18",
+    "last1DaysPrice": "171.27",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "METROPOLIS Metropolis Healthcare Ltd",
+    "changePercent": "5.78% change",
+    "currentPrice": "1979.20",
+    "last1DaysPrice": "1871.10",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "SPORTKING Sportking India Limited",
+    "changePercent": "5.75% change",
+    "currentPrice": "130.16",
+    "last1DaysPrice": "123.08",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "JAYAGROGN Jayant Agro Organics Limited",
+    "changePercent": "5.71% change",
+    "currentPrice": "266.50",
+    "last1DaysPrice": "252.10",
+    "exchange": "NSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "502137 DECAN CEMENT",
+    "changePercent": "20% change",
+    "currentPrice": "1077.10",
+    "last1DaysPrice": "897.60",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "540181 SALEM",
+    "changePercent": "20% change",
+    "currentPrice": "52.32",
+    "last1DaysPrice": "43.60",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "524624 GAGAN GASES",
+    "changePercent": "19.98% change",
+    "currentPrice": "34.05",
+    "last1DaysPrice": "28.38",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "526813 RAGHUNATH IN",
+    "changePercent": "19.91% change",
+    "currentPrice": "12.95",
+    "last1DaysPrice": "10.80",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543229 SAMRATFORG",
+    "changePercent": "19.59% change",
+    "currentPrice": "349.80",
+    "last1DaysPrice": "292.50",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "538891 MCLOUD",
+    "changePercent": "19.31% change",
+    "currentPrice": "97.24",
+    "last1DaysPrice": "81.50",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "517514 DHINDIA",
+    "changePercent": "18.78% change",
+    "currentPrice": "257.15",
+    "last1DaysPrice": "216.50",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "940185 MFLIV-24-2-31-NCD",
+    "changePercent": "18.56% change",
+    "currentPrice": "990.00",
+    "last1DaysPrice": "835.00",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "524743 FISCHER",
+    "changePercent": "17.59% change",
+    "currentPrice": "935.50",
+    "last1DaysPrice": "795.55",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "544414 Bluspring Enterprises Limited",
+    "changePercent": "16.89% change",
+    "currentPrice": "95.00",
+    "last1DaysPrice": "81.27",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "533022 20 MICRONS",
+    "changePercent": "15.16% change",
+    "currentPrice": "259.45",
+    "last1DaysPrice": "225.30",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "531254 OPTIFIN",
+    "changePercent": "14.65% change",
+    "currentPrice": "20.11",
+    "last1DaysPrice": "17.54",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "539854 HALDER",
+    "changePercent": "14.1% change",
+    "currentPrice": "800.35",
+    "last1DaysPrice": "701.45",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "540679 SMSLIFE",
+    "changePercent": "13.58% change",
+    "currentPrice": "1299.15",
+    "last1DaysPrice": "1143.80",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "532798 NTWK MED INV",
+    "changePercent": "13.18% change",
+    "currentPrice": "63.22",
+    "last1DaysPrice": "55.86",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "517170 KLKELEC",
+    "changePercent": "12.79% change",
+    "currentPrice": "48.60",
+    "last1DaysPrice": "43.09",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543829 GSLSU",
+    "changePercent": "12.71% change",
+    "currentPrice": "125.50",
+    "last1DaysPrice": "111.35",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "531553 DRL",
+    "changePercent": "12.33% change",
+    "currentPrice": "21.04",
+    "last1DaysPrice": "18.73",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "507205 TILAKNAG IND",
+    "changePercent": "11.62% change",
+    "currentPrice": "393.45",
+    "last1DaysPrice": "352.50",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "532916 BARAK VALL",
+    "changePercent": "10.82% change",
+    "currentPrice": "41.59",
+    "last1DaysPrice": "37.53",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "502180 SRI DIGV CEM",
+    "changePercent": "10.79% change",
+    "currentPrice": "83.66",
+    "last1DaysPrice": "75.51",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543618 CARGOTRANS",
+    "changePercent": "10.41% change",
+    "currentPrice": "93.85",
+    "last1DaysPrice": "85.00",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "544213 AELEA COMMODITIES LIMITED",
+    "changePercent": "10.38% change",
+    "currentPrice": "168.60",
+    "last1DaysPrice": "152.75",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "534598 SEPOWER",
+    "changePercent": "10% change",
+    "currentPrice": "33.67",
+    "last1DaysPrice": "30.61",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543154 08QPR",
+    "changePercent": "10% change",
+    "currentPrice": "1331.65",
+    "last1DaysPrice": "1210.60",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "513498 SOUTH.MAGNES",
+    "changePercent": "9.99% change",
+    "currentPrice": "167.85",
+    "last1DaysPrice": "152.60",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "539436 COFFEEDAY",
+    "changePercent": "9.99% change",
+    "currentPrice": "39.86",
+    "last1DaysPrice": "36.24",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "523105 P.POLYSAC(NR",
+    "changePercent": "9.95% change",
+    "currentPrice": "19.44",
+    "last1DaysPrice": "17.68",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543153 08AGG",
+    "changePercent": "9.95% change",
+    "currentPrice": "18.90",
+    "last1DaysPrice": "17.19",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "514264 SEASONS TEXT",
+    "changePercent": "9.94% change",
+    "currentPrice": "23.00",
+    "last1DaysPrice": "20.92",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "539046 MNKCMILTD",
+    "changePercent": "9.94% change",
+    "currentPrice": "144.85",
+    "last1DaysPrice": "131.75",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "540749 MASFIN",
+    "changePercent": "9.84% change",
+    "currentPrice": "346.45",
+    "last1DaysPrice": "315.40",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "542176 ARYAN",
+    "changePercent": "9.72% change",
+    "currentPrice": "23.15",
+    "last1DaysPrice": "21.10",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "531762 UNJHA FORMUL",
+    "changePercent": "9.7% change",
+    "currentPrice": "28.85",
+    "last1DaysPrice": "26.30",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "538874 NEXUSSURGL",
+    "changePercent": "9.63% change",
+    "currentPrice": "17.54",
+    "last1DaysPrice": "16.00",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "542019 SHUBHAM",
+    "changePercent": "9.26% change",
+    "currentPrice": "34.09",
+    "last1DaysPrice": "31.20",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "532740 LOKESH MACH",
+    "changePercent": "9.14% change",
+    "currentPrice": "222.15",
+    "last1DaysPrice": "203.55",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "539148 SHIVALIK",
+    "changePercent": "9.12% change",
+    "currentPrice": "581.95",
+    "last1DaysPrice": "533.30",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543916 HSIL",
+    "changePercent": "9.07% change",
+    "currentPrice": "188.23",
+    "last1DaysPrice": "172.57",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "532992 CHL LTD",
+    "changePercent": "9.04% change",
+    "currentPrice": "35.47",
+    "last1DaysPrice": "32.53",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "523100 COSMO FERR.",
+    "changePercent": "8.77% change",
+    "currentPrice": "293.80",
+    "last1DaysPrice": "270.10",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "502175 SAURAS.CEM.",
+    "changePercent": "8.65% change",
+    "currentPrice": "96.19",
+    "last1DaysPrice": "88.53",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "539226 RUDRA",
+    "changePercent": "8.31% change",
+    "currentPrice": "36.50",
+    "last1DaysPrice": "33.70",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "543595 EPBIO",
+    "changePercent": "8.11% change",
+    "currentPrice": "120.00",
+    "last1DaysPrice": "111.00",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "502445 CITADEL",
+    "changePercent": "8.1% change",
+    "currentPrice": "75.01",
+    "last1DaysPrice": "69.39",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "511724 BAID LEASING",
+    "changePercent": "8.1% change",
+    "currentPrice": "13.35",
+    "last1DaysPrice": "12.35",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "538979 GRNLAM IND",
+    "changePercent": "8.02% change",
+    "currentPrice": "263.90",
+    "last1DaysPrice": "244.30",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "519602 KELLTONTEC",
+    "changePercent": "7.98% change",
+    "currentPrice": "142.10",
+    "last1DaysPrice": "131.60",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "511391 INTER GLOB F",
+    "changePercent": "7.97% change",
+    "currentPrice": "77.99",
+    "last1DaysPrice": "72.23",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "506690 UNICHEM LAB",
+    "changePercent": "7.78% change",
+    "currentPrice": "646.25",
+    "last1DaysPrice": "599.60",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  },
+  {
+    "company": "532628 3I INFOTECH",
+    "changePercent": "7.78% change",
+    "currentPrice": "25.63",
+    "last1DaysPrice": "23.78",
+    "exchange": "BSE",
+    "date": "16/7/2025"
+  }
+]
