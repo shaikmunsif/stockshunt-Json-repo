@@ -1,5 +1,821 @@
 [
   {
+    "company": "975572 EEL280324A",
+    "changePercent": "19.99% change",
+    "currentPrice": "107991.00",
+    "last1DaysPrice": "90000.00",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "516078 JUMBO BAG",
+    "changePercent": "17.87% change",
+    "currentPrice": "81.87",
+    "last1DaysPrice": "69.46",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "507836 MAC CHARLES",
+    "changePercent": "14.72% change",
+    "currentPrice": "710.20",
+    "last1DaysPrice": "619.05",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "540680 KIOCL",
+    "changePercent": "13.71% change",
+    "currentPrice": "361.65",
+    "last1DaysPrice": "318.05",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "544267 SUBAM PAPERS LIMITED",
+    "changePercent": "12.98% change",
+    "currentPrice": "105.07",
+    "last1DaysPrice": "93.00",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "524669 HESTER BISC",
+    "changePercent": "11.96% change",
+    "currentPrice": "2183.15",
+    "last1DaysPrice": "1949.95",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "533212 GKB OPHTHA",
+    "changePercent": "11.07% change",
+    "currentPrice": "81.19",
+    "last1DaysPrice": "73.10",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "505872 WPIL LTD.",
+    "changePercent": "10.75% change",
+    "currentPrice": "505.35",
+    "last1DaysPrice": "456.30",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "751015 Kilitch Drugs (I) Ltd.",
+    "changePercent": "10.69% change",
+    "currentPrice": "98.51",
+    "last1DaysPrice": "89.00",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "520066 JAYBH.MARUTI",
+    "changePercent": "10.42% change",
+    "currentPrice": "82.37",
+    "last1DaysPrice": "74.60",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "521161 SRI LAK.SAR.",
+    "changePercent": "10.23% change",
+    "currentPrice": "41.90",
+    "last1DaysPrice": "38.01",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "526081 SCAGRO",
+    "changePercent": "10% change",
+    "currentPrice": "16.50",
+    "last1DaysPrice": "15.00",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "531902 GALLOPENT",
+    "changePercent": "10% change",
+    "currentPrice": "21.78",
+    "last1DaysPrice": "19.80",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "543099 UTCRFS2DGR",
+    "changePercent": "10% change",
+    "currentPrice": "175.83",
+    "last1DaysPrice": "159.85",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "543153 08AGG",
+    "changePercent": "9.99% change",
+    "currentPrice": "59.22",
+    "last1DaysPrice": "53.84",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "543108 UTCRFS2RQP",
+    "changePercent": "9.98% change",
+    "currentPrice": "192.00",
+    "last1DaysPrice": "174.58",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "539151 ARFIN",
+    "changePercent": "9.97% change",
+    "currentPrice": "37.49",
+    "last1DaysPrice": "34.09",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "524748 LINK PHARMA",
+    "changePercent": "9.82% change",
+    "currentPrice": "36.56",
+    "last1DaysPrice": "33.29",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "543071 07AGG",
+    "changePercent": "9.66% change",
+    "currentPrice": "16.69",
+    "last1DaysPrice": "15.22",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "523832 MUKAT PIPES",
+    "changePercent": "9.47% change",
+    "currentPrice": "17.00",
+    "last1DaysPrice": "15.53",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "526588 PHOTOQUIP(I)",
+    "changePercent": "9.43% change",
+    "currentPrice": "17.75",
+    "last1DaysPrice": "16.22",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "519604 SURYO FOODS",
+    "changePercent": "8.95% change",
+    "currentPrice": "23.99",
+    "last1DaysPrice": "22.02",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "542865 ANUROOP",
+    "changePercent": "8.86% change",
+    "currentPrice": "20.88",
+    "last1DaysPrice": "19.18",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "532864 NELCAST",
+    "changePercent": "8.26% change",
+    "currentPrice": "169.15",
+    "last1DaysPrice": "156.25",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "511122 FIRST CUSTO.",
+    "changePercent": "8.11% change",
+    "currentPrice": "96.16",
+    "last1DaysPrice": "88.95",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "544259 POPULAR FOUNDATIONS LIMITED",
+    "changePercent": "7.82% change",
+    "currentPrice": "35.04",
+    "last1DaysPrice": "32.50",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "526315 DIVYA.GRANIT",
+    "changePercent": "7.81% change",
+    "currentPrice": "68.30",
+    "last1DaysPrice": "63.35",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "939701 CCIL-13-6-30-NCD",
+    "changePercent": "7.72% change",
+    "currentPrice": "1057.00",
+    "last1DaysPrice": "981.27",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "521105 OLYMPIA IND.",
+    "changePercent": "7.17% change",
+    "currentPrice": "39.90",
+    "last1DaysPrice": "37.23",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "532667 SUZLONENERGY",
+    "changePercent": "7.1% change",
+    "currentPrice": "65.96",
+    "last1DaysPrice": "61.59",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "540590 RIDDHICORP",
+    "changePercent": "7.09% change",
+    "currentPrice": "69.94",
+    "last1DaysPrice": "65.31",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "516096 SANGAL PAPER",
+    "changePercent": "6.62% change",
+    "currentPrice": "190.95",
+    "last1DaysPrice": "179.10",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "535566 KIFS FSL",
+    "changePercent": "6.51% change",
+    "currentPrice": "167.00",
+    "last1DaysPrice": "156.80",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "538562 SKIPPER",
+    "changePercent": "6.49% change",
+    "currentPrice": "516.70",
+    "last1DaysPrice": "485.20",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "532806 AI CHAMPDNY",
+    "changePercent": "6.47% change",
+    "currentPrice": "61.41",
+    "last1DaysPrice": "57.68",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "502873 H.P.COTTON",
+    "changePercent": "6.36% change",
+    "currentPrice": "103.86",
+    "last1DaysPrice": "97.65",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "544079 DIGIDRIVE",
+    "changePercent": "6.09% change",
+    "currentPrice": "34.66",
+    "last1DaysPrice": "32.67",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "543620 INA",
+    "changePercent": "6% change",
+    "currentPrice": "220.00",
+    "last1DaysPrice": "207.55",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "544172 INDGN",
+    "changePercent": "5.98% change",
+    "currentPrice": "576.30",
+    "last1DaysPrice": "543.80",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "523708 EIMCO ELECON",
+    "changePercent": "5.94% change",
+    "currentPrice": "2392.25",
+    "last1DaysPrice": "2258.20",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "516108 S.I.PAPER",
+    "changePercent": "5.8% change",
+    "currentPrice": "85.91",
+    "last1DaysPrice": "81.20",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "539660 BESTAGRO",
+    "changePercent": "5.55% change",
+    "currentPrice": "511.75",
+    "last1DaysPrice": "484.85",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "540648 PALASHSEC",
+    "changePercent": "5.5% change",
+    "currentPrice": "126.70",
+    "last1DaysPrice": "120.10",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "504112 NELCO LTD.",
+    "changePercent": "5.4% change",
+    "currentPrice": "868.20",
+    "last1DaysPrice": "823.70",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "500405 SUPREME PET",
+    "changePercent": "5.31% change",
+    "currentPrice": "825.75",
+    "last1DaysPrice": "784.15",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "502015 ASIIL",
+    "changePercent": "5.17% change",
+    "currentPrice": "33.35",
+    "last1DaysPrice": "31.71",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "539875 RSDFIN",
+    "changePercent": "5.14% change",
+    "currentPrice": "107.30",
+    "last1DaysPrice": "102.05",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "532467 HAZ MUL PRO",
+    "changePercent": "5.11% change",
+    "currentPrice": "45.03",
+    "last1DaysPrice": "42.84",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "500126 PGHL",
+    "changePercent": "5.09% change",
+    "currentPrice": "6199.70",
+    "last1DaysPrice": "5899.55",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "544223 Ceigall India Limited",
+    "changePercent": "5.07% change",
+    "currentPrice": "262.15",
+    "last1DaysPrice": "249.50",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "500414 TIMEX GROUP",
+    "changePercent": "5% change",
+    "currentPrice": "244.75",
+    "last1DaysPrice": "233.10",
+    "exchange": "BSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "KIOCL Kiocl Limited",
+    "changePercent": "13.89% change",
+    "currentPrice": "362.05",
+    "last1DaysPrice": "317.90",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "JAYBARMARU Jay Bharat Maruti Limited",
+    "changePercent": "13.03% change",
+    "currentPrice": "84.33",
+    "last1DaysPrice": "74.61",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "HESTERBIO Hester Biosciences Limited",
+    "changePercent": "12.55% change",
+    "currentPrice": "2193.80",
+    "last1DaysPrice": "1949.20",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "ARFIN Arfin India Limited",
+    "changePercent": "9.99% change",
+    "currentPrice": "37.66",
+    "last1DaysPrice": "34.24",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "NELCAST Nelcast Limited",
+    "changePercent": "7.58% change",
+    "currentPrice": "168.98",
+    "last1DaysPrice": "157.08",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SUZLON Suzlon Energy Limited",
+    "changePercent": "7.06% change",
+    "currentPrice": "65.95",
+    "last1DaysPrice": "61.60",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "KAPSTON Kapston Facilities Mgmt L",
+    "changePercent": "6.88% change",
+    "currentPrice": "258.52",
+    "last1DaysPrice": "241.88",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "DIGIDRIVE Digidrive Distributors L",
+    "changePercent": "6.38% change",
+    "currentPrice": "34.66",
+    "last1DaysPrice": "32.58",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "INDGN Indegene Limited",
+    "changePercent": "6.32% change",
+    "currentPrice": "577.30",
+    "last1DaysPrice": "543.00",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SKIPPER SKIPPER LTD INR1",
+    "changePercent": "6.3% change",
+    "currentPrice": "516.25",
+    "last1DaysPrice": "485.65",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "EIMCOELECO Eimco Elecon (India) Limited",
+    "changePercent": "6.01% change",
+    "currentPrice": "2391.00",
+    "last1DaysPrice": "2255.40",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "CROWN Crown Lifters",
+    "changePercent": "5.67% change",
+    "currentPrice": "165.57",
+    "last1DaysPrice": "156.69",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "BESTAGRO Best Agrolife Limited",
+    "changePercent": "5.65% change",
+    "currentPrice": "512.35",
+    "last1DaysPrice": "484.95",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SPLPETRO Supreme Petrochem Limited",
+    "changePercent": "5.57% change",
+    "currentPrice": "830.00",
+    "last1DaysPrice": "786.20",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "PGHL Procter & Gamble Health L",
+    "changePercent": "5.45% change",
+    "currentPrice": "6217.00",
+    "last1DaysPrice": "5895.50",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "NELCO NELCO Limited",
+    "changePercent": "5.45% change",
+    "currentPrice": "869.15",
+    "last1DaysPrice": "824.20",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "CEIGALL Ceigall India Limited",
+    "changePercent": "5.34% change",
+    "currentPrice": "263.04",
+    "last1DaysPrice": "249.70",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "RACE Race Eco Chain Limited",
+    "changePercent": "5.3% change",
+    "currentPrice": "252.29",
+    "last1DaysPrice": "239.59",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "NETWEB Netweb Tech India Ltd",
+    "changePercent": "5.1% change",
+    "currentPrice": "2135.20",
+    "last1DaysPrice": "2031.50",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SMLISUZU SML Isuzu Limited",
+    "changePercent": "5% change",
+    "currentPrice": "3471.30",
+    "last1DaysPrice": "3306.00",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "PDMJEPAPER Pudumjee Paper Pro. Ltd",
+    "changePercent": "5% change",
+    "currentPrice": "125.03",
+    "last1DaysPrice": "119.08",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "ORCHPHARMA Orchid Pharma Limited",
+    "changePercent": "5% change",
+    "currentPrice": "777.40",
+    "last1DaysPrice": "740.40",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "GVTnD Ge Vernova T&d India Ltd",
+    "changePercent": "5% change",
+    "currentPrice": "2863.10",
+    "last1DaysPrice": "2726.80",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "NARMADA Narmada Agrobase Limited",
+    "changePercent": "4.99% change",
+    "currentPrice": "20.18",
+    "last1DaysPrice": "19.22",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "ORTINGLOBE Ortin Global Limited",
+    "changePercent": "4.98% change",
+    "currentPrice": "15.60",
+    "last1DaysPrice": "14.86",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "CUPID Cupid",
+    "changePercent": "4.85% change",
+    "currentPrice": "158.21",
+    "last1DaysPrice": "150.89",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "CCL CCL Products (India) Limited",
+    "changePercent": "4.84% change",
+    "currentPrice": "894.10",
+    "last1DaysPrice": "852.85",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SMLT Sarthak Metals Limited",
+    "changePercent": "4.81% change",
+    "currentPrice": "120.43",
+    "last1DaysPrice": "114.90",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "ZENTEC Zen Technologies Limited",
+    "changePercent": "4.72% change",
+    "currentPrice": "1533.20",
+    "last1DaysPrice": "1464.10",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "TBOTEK Tbo Tek Limited",
+    "changePercent": "4.49% change",
+    "currentPrice": "1415.40",
+    "last1DaysPrice": "1354.60",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "TBZ Tribhovandas Bhimji Zaveri Limited",
+    "changePercent": "4.46% change",
+    "currentPrice": "191.53",
+    "last1DaysPrice": "183.36",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "ARISINFRA Arisinfra Solutions Ltd",
+    "changePercent": "4.46% change",
+    "currentPrice": "149.27",
+    "last1DaysPrice": "142.90",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SUPREME Supreme Holdin N Hosp I L",
+    "changePercent": "4.36% change",
+    "currentPrice": "73.77",
+    "last1DaysPrice": "70.69",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "GVPTECH Gvp Infotech Limited",
+    "changePercent": "4.28% change",
+    "currentPrice": "10.73",
+    "last1DaysPrice": "10.29",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "RETAIL Jhs Svendgaard Retail V L",
+    "changePercent": "4.23% change",
+    "currentPrice": "36.68",
+    "last1DaysPrice": "35.19",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "RADIANTCMS Radiant Cash Mgmt Ser Ltd",
+    "changePercent": "4.23% change",
+    "currentPrice": "59.62",
+    "last1DaysPrice": "57.20",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "UFO UFO Moviez India Limited",
+    "changePercent": "4.11% change",
+    "currentPrice": "76.25",
+    "last1DaysPrice": "73.24",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "GOPAL Gopal Snacks Limited",
+    "changePercent": "4.11% change",
+    "currentPrice": "361.00",
+    "last1DaysPrice": "346.75",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "RADICO Radico Khaitan Limited",
+    "changePercent": "3.81% change",
+    "currentPrice": "2838.80",
+    "last1DaysPrice": "2734.50",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "TOUCHWOOD Touchwood Entertain Ltd.",
+    "changePercent": "3.8% change",
+    "currentPrice": "99.41",
+    "last1DaysPrice": "95.77",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "WAAREEENER Waaree Energies Limited",
+    "changePercent": "3.73% change",
+    "currentPrice": "3104.00",
+    "last1DaysPrice": "2992.40",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "NETWORK18 Network18 Media & Investments Limited",
+    "changePercent": "3.55% change",
+    "currentPrice": "57.47",
+    "last1DaysPrice": "55.50",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "BANKBETF Bfam - Bankbetf",
+    "changePercent": "3.47% change",
+    "currentPrice": "58.68",
+    "last1DaysPrice": "56.71",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "TRIGYN Trigyn Technologies Limited",
+    "changePercent": "3.43% change",
+    "currentPrice": "82.30",
+    "last1DaysPrice": "79.57",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "SECURKLOUD Securekloud Tech Limited",
+    "changePercent": "3.42% change",
+    "currentPrice": "25.09",
+    "last1DaysPrice": "24.26",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "ALLDIGI Alldigi Tech Limited",
+    "changePercent": "3.4% change",
+    "currentPrice": "1029.10",
+    "last1DaysPrice": "995.25",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "HIRECT Hind Rectifiers Limited",
+    "changePercent": "3.39% change",
+    "currentPrice": "1896.10",
+    "last1DaysPrice": "1834.00",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "MANAKALUCO Manaksia Aluminium Company Limited",
+    "changePercent": "3.34% change",
+    "currentPrice": "31.28",
+    "last1DaysPrice": "30.27",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "USK Udayshivakumar Infra Ltd",
+    "changePercent": "3.33% change",
+    "currentPrice": "36.28",
+    "last1DaysPrice": "35.11",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "APTUS Aptus Value Hsg Fin I Ltd",
+    "changePercent": "3.31% change",
+    "currentPrice": "338.50",
+    "last1DaysPrice": "327.65",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
+    "company": "KAYNES Kaynes Technology Ind Ltd",
+    "changePercent": "3.23% change",
+    "currentPrice": "6371.50",
+    "last1DaysPrice": "6172.00",
+    "exchange": "NSE",
+    "date": "1/8/2025"
+  },
+  {
     "company": "751016 Valiant Laboratories Limited",
     "changePercent": "23.3% change",
     "currentPrice": "14.66",
